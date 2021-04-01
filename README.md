@@ -5,6 +5,10 @@
 This is a simple script that uses **opencv** to make **signature** photos 
 clearer and automatically **crop** the white space around it.
 
+#### TODO
+
+1. Implement automatic boxes cluster detection to extract multiple signatures.
+2. Implement classifier to detect which clusters are a signature.
 
 ### Examples
 
