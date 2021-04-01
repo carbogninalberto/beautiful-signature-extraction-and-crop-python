@@ -1,0 +1,9 @@
+#dataset
+dataset/excluded/*
+!dataset/3.jpg
+
+#old
+old_main.py
+
+#virtual environment
+venv/*
